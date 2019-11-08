@@ -57,7 +57,11 @@ namespace anotheropgave
                         if (TomeList[i].borrowstatus == true)
                         {
                             Console.WriteLine(TomeList[i].name + " has been borrowed" + " since " + DateTime.Now.ToString() + " by " + Gnome.name);
-
+                        int count = 0;
+                        foreach (Tome in TomeList)
+                        { 
+                        
+                        }
                             isrunning = true;
 
                         }
@@ -69,8 +73,9 @@ namespace anotheropgave
                     }
                     else if (Console.ReadLine() == "1")
                     {
-                        int n = int.Parse(Console.ReadLine());
-                        Console.WriteLine("which book do you wanna return 0-6");
+                        Console.WriteLine("which book do you wanna return 0-6");  
+                        int n = int.Parse(Console.ReadLine());  
+                        
                         if (TomeList[n].borrowstatus == true)
                         {
                             TomeList[n].borrowstatus = false;

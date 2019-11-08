@@ -58,7 +58,7 @@ namespace anotheropgave
                         {
                             Console.WriteLine(TomeList[i].name + " has been borrowed" + " since " + DateTime.Now.ToString() + " by " + Gnome.name);
                         int count = 0;
-                        foreach (Tome in TomeList)
+                        foreach (var Tome in TomeList)
                         { 
                         
                         }

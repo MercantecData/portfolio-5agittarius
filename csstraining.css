@@ -1,0 +1,34 @@
+.grid{
+    display: grid;
+    width: 100%;
+    height: 2550px;
+    grid-template-columns: 200px 1fr;
+    grid-template-rows: 50px 300px 300px 50px;
+    grid-template-areas:
+    "header header" 
+    "sidebar content"
+    "sidebar content"
+    "sidebar footer";
+}
+
+
+.header{
+    grid-area: header;
+    
+
+background-color: rgb(26, 230, 87)
+
+}
+.sidebar{
+    grid-area: sidebar;
+    
+    background-color: skyblue;
+}
+.content{
+    grid-area: content;
+    background-image: url("file:///C:/Users/49880/Desktop/179930d4467950b11b8f5dc0b36d6f72.jpg");
+}
+.footer{
+    grid-area: footer;
+    
+}

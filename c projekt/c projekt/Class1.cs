@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace anotheropgave
+namespace Library
 {
     class gnome
     {

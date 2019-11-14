@@ -1,0 +1,11 @@
+C:\Users\49880\source\repos\ARRAY\ARRAY\bin\Debug\netcoreapp3.0\ARRAY.exe
+C:\Users\49880\source\repos\ARRAY\ARRAY\bin\Debug\netcoreapp3.0\ARRAY.deps.json
+C:\Users\49880\source\repos\ARRAY\ARRAY\bin\Debug\netcoreapp3.0\ARRAY.runtimeconfig.json
+C:\Users\49880\source\repos\ARRAY\ARRAY\bin\Debug\netcoreapp3.0\ARRAY.runtimeconfig.dev.json
+C:\Users\49880\source\repos\ARRAY\ARRAY\bin\Debug\netcoreapp3.0\ARRAY.dll
+C:\Users\49880\source\repos\ARRAY\ARRAY\bin\Debug\netcoreapp3.0\ARRAY.pdb
+C:\Users\49880\source\repos\ARRAY\ARRAY\obj\Debug\netcoreapp3.0\ARRAY.csprojAssemblyReference.cache
+C:\Users\49880\source\repos\ARRAY\ARRAY\obj\Debug\netcoreapp3.0\ARRAY.AssemblyInfoInputs.cache
+C:\Users\49880\source\repos\ARRAY\ARRAY\obj\Debug\netcoreapp3.0\ARRAY.AssemblyInfo.cs
+C:\Users\49880\source\repos\ARRAY\ARRAY\obj\Debug\netcoreapp3.0\ARRAY.dll
+C:\Users\49880\source\repos\ARRAY\ARRAY\obj\Debug\netcoreapp3.0\ARRAY.pdb

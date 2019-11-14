@@ -9,3 +9,14 @@ C:\Users\49880\source\repos\c projekt\c projekt\obj\Debug\netcoreapp3.0\c projek
 C:\Users\49880\source\repos\c projekt\c projekt\obj\Debug\netcoreapp3.0\c projekt.AssemblyInfo.cs
 C:\Users\49880\source\repos\c projekt\c projekt\obj\Debug\netcoreapp3.0\c projekt.dll
 C:\Users\49880\source\repos\c projekt\c projekt\obj\Debug\netcoreapp3.0\c projekt.pdb
+C:\Users\49880\Desktop\portfolio-5agittarius\c projekt\c projekt\bin\Debug\netcoreapp3.0\c projekt.exe
+C:\Users\49880\Desktop\portfolio-5agittarius\c projekt\c projekt\bin\Debug\netcoreapp3.0\c projekt.deps.json
+C:\Users\49880\Desktop\portfolio-5agittarius\c projekt\c projekt\bin\Debug\netcoreapp3.0\c projekt.runtimeconfig.json
+C:\Users\49880\Desktop\portfolio-5agittarius\c projekt\c projekt\bin\Debug\netcoreapp3.0\c projekt.runtimeconfig.dev.json
+C:\Users\49880\Desktop\portfolio-5agittarius\c projekt\c projekt\bin\Debug\netcoreapp3.0\c projekt.dll
+C:\Users\49880\Desktop\portfolio-5agittarius\c projekt\c projekt\bin\Debug\netcoreapp3.0\c projekt.pdb
+C:\Users\49880\Desktop\portfolio-5agittarius\c projekt\c projekt\obj\Debug\netcoreapp3.0\c projekt.csprojAssemblyReference.cache
+C:\Users\49880\Desktop\portfolio-5agittarius\c projekt\c projekt\obj\Debug\netcoreapp3.0\c projekt.AssemblyInfoInputs.cache
+C:\Users\49880\Desktop\portfolio-5agittarius\c projekt\c projekt\obj\Debug\netcoreapp3.0\c projekt.AssemblyInfo.cs
+C:\Users\49880\Desktop\portfolio-5agittarius\c projekt\c projekt\obj\Debug\netcoreapp3.0\c projekt.dll
+C:\Users\49880\Desktop\portfolio-5agittarius\c projekt\c projekt\obj\Debug\netcoreapp3.0\c projekt.pdb

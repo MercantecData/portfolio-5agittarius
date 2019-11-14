@@ -1,0 +1,23 @@
+body{
+   
+    background-image: url("https://www.ablanxue.com/edit/attached/20120927/20120927172734_737.jpg"),url("https://media.tenor.com/images/96df040b4ff2dc166269cb6eb612f48d/tenor.gif");
+    background-repeat: repeat-y,repeat;
+    background-position: 50%,100%;
+    background-size: 50%,25%;
+}
+
+
+.box1 {
+
+    color: brown;
+}
+
+.container {
+ width: 50%;
+ height: 200px;
+ text-align:center;
+line-height: 50px;
+margin :  auto;
+top: 400px;
+
+}
